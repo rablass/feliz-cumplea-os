@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>¡Felices 18 love!</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f8e1f4;
+            text-align: center;
+            padding: 50px;
+        }
+
+        h1 {
+            color: #e91e63;
+            font-size: 3em;
+            margin-bottom: 0;
+        }
+
+        p {
+            font-size: 1.5em;
+            color: #4a4a4a;
+        }
+
+        .birthday-card {
+            background-color: #fff;
+            border-radius: 10px;
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+            padding: 30px;
+            display: inline-block;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="birthday-card">
+        <h1>¡Felices 18 love!</h1>
+        <p>Que este dia este lleno de felicidad para ti:) perdon por nunca darte lo que mereces. te amo!</p>
+        <p>🎉🎂🎁</p>
+    </div>
+</body>
+
+</html>
